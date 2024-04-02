@@ -55,7 +55,7 @@ btnHold.addEventListener("click", () => {
   }
 });
 
-btnNew.addEventListener("clicl", () => {
+btnNew.addEventListener("click", () => {
   currentScore = 0;
   activPlayer = 0;
   score = [0, 0];
